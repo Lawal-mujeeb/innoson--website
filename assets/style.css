@@ -1,0 +1,53 @@
+ <!-- div class="container mx-auto px-3 md:px-20 flex justify-between items-start">-->
+      <!--section-3 for about us -->
+      <footer class="bg-[#0F0F0F] text-[#FFFFFF] py-10 lg:flex justify-around  ">
+        <div class="  w-[362px] h-[273px] pt-[28px] pl-[131px] gap-[23px] ">
+          <img src="assets/images (6) 2.svg" alt=" ivm logo" />
+          <p class="text-[16px] font-[400] w-[344px] h-[48px] leading-[150%] mt-4 mb-2">
+            Subscribe to our newsletter to be one of the first to receive
+            updates on Innoson Group
+          </p>
+          <p class="text-[20px] font-[600] leading-[100%] mb-2">
+            Newsletter Sign Up
+          </p>
+          <input
+            placeholder="Email adress"
+            class="border-1 rounded py-[14px] pr-[96px] pl-[10px] gap-[7px]"
+          /><button class="bg-[#2E3192] rounded py-[14px] px-[16px] font-semibold text-[#FFFFFF]]
+          ">
+            Email address
+          </button>
+        </div>
+        <div class="w-[362px] h-[273px] pt-[28px] pl-[131px] gap-[23px]">
+          <p class="text-[20px] font-[600] leading-[100%] pt-6 pb-4">Address</p>
+          <p class="text-[16px] font-[600] leading-[100%]">Head Office</p>
+          <p class="text-[16px] font-[400] leading-[150%] pb-2">
+            No 95 Owerri Road,P.O. Box 1068, Umudim, Nnewi,Anambra State
+          </p>
+          <p class="text-[16px] font-[600] leading-[100%] pb-2">Lagos Office</p>
+          <p>
+            Plot 1 Block A,Amuwo Odofin Ind. Estate,Oshodi, Apapa,Lagos State
+          </p>
+        </div>
+        <div class="w-[231px] h-[167px] pt-[61.5px] pl-[00px] lg:pr-[131px] gap-[20px] ">
+          <p class="text-[20px] font-[600] leading-[100%] pb-4 ">Contact</p>
+
+          <div class="flex items-center space-x-2 pb-2">
+            <img src="assets/Vector.svg" alt="facebook logo" class="w-[30px] h-[30px]" />
+            <p>@innosongroup</p>
+          </div>
+           <div class="flex items-center space-x-2 pb-2">
+            <img src="assets/teenyicons_instagram-solid.svg" alt="instagram logo" class="w-[30px] h-[30px]" />
+            <p>@innosongroup</p>
+          </div>
+           <div class="flex items-center space-x-2 pb-2">
+            <img src="assets/mdi_gmail.svg" alt="Gmail logo" class="w-[30px] h-[30px]" />
+            <p>sales@innosongroup.com</p>
+          </div>
+          
+        </div>
+        
+      </footer>
+    </main>
+  </body>
+</html>
